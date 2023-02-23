@@ -1,0 +1,18 @@
+.footer{
+    background-color: rgb(17, 17, 17);
+    color: white;
+    font-size: 18px;
+    padding: 10rem ;
+}
+.footer__link {
+    color: rgb(214, 240, 240);
+    text-transform: capitalize;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.footer__link:hover{
+    background-color: teal;
+    box-shadow: 0 1rem 2rem rgba(#000 .4);
+    transform: rotate(5deg) ;
+}
